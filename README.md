@@ -11,7 +11,7 @@ Repositorio de trabajo colaborativo desarrollado para la práctica de Git, GitHu
 | LD230289 | Fernando Jose Lopez Dominguez |
 | HC220343 | Inmer Sebastian Hernandez Contreras |
 | CS230279 | Adal Isaac Carcamo Sanchez |
-| CF200830 | Nombre del integrante |
+| CF200830 | José Ángel Cuéllar Flores |
 
 ## Estructura del repositorio
 
